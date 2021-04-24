@@ -13,7 +13,8 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-seven-livid.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://spotify-now-playing-seven-livid.vercel.app/api/spotify-playing" alt="My Spotify Playing" width="350" />](https://open.spotify.com/user/rtpu3lrmd7nitosllf8xbyjjz)
+
 [![Spotify](https://spotify-now-playing-seven-livid.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 ### Connect with me:

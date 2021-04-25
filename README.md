@@ -55,11 +55,13 @@
 
 </details>
 
+<br />
+
 <details>
   <summary>:zap: Top Languages</summary>
 
   <!-- <img align="left" alt="Most Used Languages" src="https://github-readme-stats-shashanksmaty.vercel.app/api/top-langs/?username=shashanksmaty&langs_count=8&layout=compact" /> -->
-  <img align="left" src="https://github-readme-stats-shashanksmaty.vercel.app/api/top-langs/?username=shashanksmaty&layout=compact&theme=material-palenight" />
+  <img align="left" src="https://github-readme-stats-shashanksmaty.vercel.app/api/top-langs/?username=shashanksmaty&layout=compact&theme=onedark&langs_count=8" />
 
 </details>
 

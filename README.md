@@ -48,22 +48,10 @@
 
 ### Stats:
 
-<table width="100%"> 
-    <tr>
-        <td width="50%">
-        <br> 
-            <img align="center" alt="Shashank's GitHub Stats" src="https://github-readme-stats-shashanksmaty.vercel.app/api?username=shashanksmaty&show_icons=true&hide_border=true&theme=onedark" />
-        </td>
-        <td width="50%">
-        <br>
-            <img align="center" src="https://github-readme-stats-shashanksmaty.vercel.app/api/top-langs/?username=shashanksmaty&layout=compact&theme=onedark&langs_count=8" />
-        </td>
-    </tr>
-</table>
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
+  <br />  
   <table width="100%"> 
     <tr>
         <td width="100%">
@@ -79,11 +67,27 @@
 <details>
   <summary>:zap: Top Languages</summary>
 
+  <br />  
   <table width="100%"> 
     <tr>
         <td width="100%">
         <br>
             <img align="center" alt="Most Used Languages" src="https://github-readme-stats-shashanksmaty.vercel.app/api/top-langs/?username=shashanksmaty&layout=compact&theme=onedark&langs_count=8" />
+        </td>
+    </tr>
+  </table>
+
+</details>
+
+<details>
+  <summary>:zap: Wakatime Stats</summary>
+
+  <br />  
+  <table width="100%"> 
+    <tr>
+        <td width="100%">
+        <br>
+            <img align="center" alt="Wakatime Stats" src="https://github-readme-stats-shashanksmaty.vercel.app/api/wakatime?username=s_shashank&layout=compact&theme=onedark&langs_count=8" />
         </td>
     </tr>
   </table>

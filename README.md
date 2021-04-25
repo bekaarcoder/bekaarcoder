@@ -55,6 +55,13 @@
 
 </details>
 
+<details>
+  <summary>:zap: Top Languages</summary>
+
+  <img align="left" alt="Most Used Languages" src="https://github-readme-stats-shashanksmaty.vercel.app/api/top-langs/?username=shashanksmaty&langs_count=8&layout=compact" />
+
+</details>
+
 [website]: https://shashanksmaty.github.io
 [twitter]: https://twitter.com/banda_bekaar
 [instagram]: https://instagram.com/banda_bekaar

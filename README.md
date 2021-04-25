@@ -48,6 +48,18 @@
 
 ### Stats:
 
+<table width="100%"> 
+  <tr>
+    <td width="50%">
+    <br> 
+        <img align="left" alt="Shashank's GitHub Stats" src="https://github-readme-stats-shashanksmaty.vercel.app/api?username=shashanksmaty&show_icons=true&hide_border=true&theme=onedark" />
+    </td>
+    <td width="50%">
+    <br>
+        <img align="left" src="https://github-readme-stats-shashanksmaty.vercel.app/api/top-langs/?username=shashanksmaty&layout=compact&theme=onedark&langs_count=8" />
+    </td>
+</table>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 

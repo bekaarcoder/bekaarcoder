@@ -64,7 +64,7 @@
     <tr>
         <td width="100%">
         <br> 
-            <img align="center" alt="Shashank's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksmaty&theme=dark" alt="shashank" />
+            <img align="center" alt="Shashank's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksmaty&hide_border=true&theme=onedark" alt="shashank" />
         </td>
     </tr>
     <tr>

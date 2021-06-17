@@ -64,7 +64,13 @@
     <tr>
         <td width="100%">
         <br> 
-            <img align="center" alt="Shashank's GitHub Stats" src="https://github-readme-stats-shashanksmaty.vercel.app/api?username=shashanksmaty&show_icons=true&hide_border=true&theme=onedark" />
+            <img align="center" alt="Shashank's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksmaty&theme=dark" alt="shashank" />
+        </td>
+    </tr>
+    <tr>
+        <td width="100%">
+        <br> 
+            <img align="center" alt="Shashank's GitHub Status" src="https://github-readme-stats-shashanksmaty.vercel.app/api?username=shashanksmaty&show_icons=true&hide_border=true&theme=onedark" />
         </td>
     </tr>
   </table>

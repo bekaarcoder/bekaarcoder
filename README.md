@@ -64,13 +64,13 @@
     <tr>
         <td width="100%">
         <br> 
-            <img align="center" alt="Shashank's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksmaty&hide_border=true&theme=onedark"/>
+            <img align="center" alt="Shashank's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bekaarcoder&hide_border=true&theme=onedark"/>
         </td>
     </tr>
     <tr>
         <td width="100%">
         <br> 
-            <img align="center" alt="Shashank's GitHub Status" src="https://github-readme-stats-shashanksmaty.vercel.app/api?username=shashanksmaty&show_icons=true&hide_border=true&theme=onedark" />
+            <img align="center" alt="Shashank's GitHub Status" src="https://github-readme-stats-shashanksmaty.vercel.app/api?username=bekaarcoder&show_icons=true&hide_border=true&theme=onedark" />
         </td>
     </tr>
   </table>
@@ -84,7 +84,7 @@
     <tr>
         <td width="100%">
         <br>
-            <img align="center" alt="Most Used Languages" src="https://github-readme-stats-shashanksmaty.vercel.app/api/top-langs/?username=shashanksmaty&layout=compact&theme=onedark&langs_count=8" />
+            <img align="center" alt="Most Used Languages" src="https://github-readme-stats-shashanksmaty.vercel.app/api/top-langs/?username=bekaarcoder&layout=compact&theme=onedark&langs_count=8" />
         </td>
     </tr>
   </table>

@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-now-playing-seven-livid.vercel.app/api/spotify)](https://open.spotify.com/user/rtpu3lrmd7nitosllf8xbyjjz)
+[![Spotify](https://spotify-now-playing-seven-livid.vercel.app/api/spotify)](https://open.spotify.com/user/31xpmcs5k5ap75vvoj62ns3lkviq)
 
 ### Connect with me:
 

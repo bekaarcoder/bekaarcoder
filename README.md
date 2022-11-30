@@ -6,7 +6,7 @@
 
 -   🌱 I have a diverse set of skills.
 -   ✍ I love learning new technologies
--   🥅 2021 Goals: Learn Python, Django and Docker
+-   🥅 2023 Goals: Learn Spring Boot Microservices, TypeScript
 -   ⚡ Fun fact: Besides coding, I sketch and do random stuff.
 -   📧 Get in touch with me: **shashank.basant@gmail.com**
 -   👨‍💻 Checkout my portfolio website [here][website]

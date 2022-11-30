@@ -99,7 +99,7 @@
     <tr>
         <td width="100%">
         <br>
-            <img align="center" alt="Wakatime Stats" src="https://github-readme-stats-shashanksmaty.vercel.app/api/wakatime?username=bekaarcoder&layout=compact&theme=onedark&langs_count=8" />
+            <img align="center" alt="Wakatime Stats" src="https://github-readme-stats-shashanksmaty.vercel.app/api/wakatime?username=s_shashank&layout=compact&theme=onedark&langs_count=8" />
         </td>
     </tr>
   </table>

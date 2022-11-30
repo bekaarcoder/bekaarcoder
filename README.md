@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-now-playing-seven-livid.vercel.app/api/spotify)](https://open.spotify.com/user/31xpmcs5k5ap75vvoj62ns3lkviq)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xpmcs5k5ap75vvoj62ns3lkviq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31xpmcs5k5ap75vvoj62ns3lkviq&redirect=true)
 
 ### Connect with me:
 
@@ -99,7 +99,7 @@
     <tr>
         <td width="100%">
         <br>
-            <img align="center" alt="Wakatime Stats" src="https://github-readme-stats-shashanksmaty.vercel.app/api/wakatime?username=s_shashank&layout=compact&theme=onedark&langs_count=8" />
+            <img align="center" alt="Wakatime Stats" src="https://github-readme-stats-shashanksmaty.vercel.app/api/wakatime?username=bekaarcoder&layout=compact&theme=onedark&langs_count=8" />
         </td>
     </tr>
   </table>
